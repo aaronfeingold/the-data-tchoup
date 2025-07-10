@@ -1,0 +1,9 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:aaronfeingold/tchoupitoulas-data-challenge.git
+[submodule "ETL"]
+	path = ETL
+	url = git@github.com:aaronfeingold/creole-creamery-scraper.git
+[submodule "ml"]
+	path = ml
+	url = git@github.com:aaronfeingold/the-tchoupitoulas-data-challenge-ml.git
