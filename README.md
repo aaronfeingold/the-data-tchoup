@@ -10,7 +10,6 @@ the-data-tchoup/
 ├── ETL/                    # AWS Lambda scraper & infrastructure
 ├── ml/                     # Machine learning models
 ├── dev/                    # Development tools & database
-└── plan.md                 # Original project specification
 ```
 
 ## Quick Start
